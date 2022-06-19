@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 5th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "food competition",
+      "day": "12 June 2022",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "food competition",
+      "day": "kesho",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "msemo wa waswahili",
+      "day": "kesho ijayo",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "test",
+      "day": "test",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "kila siku na vitu zake",
+      "day": "sindio ama?",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
